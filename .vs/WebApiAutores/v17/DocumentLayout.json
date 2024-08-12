@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\pc\\documents\\ciclo 10\\proyectos c#\\ejercicios del curso nivel 2\\ejercicio 25-jul\\ejercicio 24-jul\\ejercicio2\\webapiautores\\webapiautores\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\pc\\documents\\ciclo 10\\proyectos c#\\ejercicios del curso nivel 2\\ejercicio 25-jul\\ejercicio 24-jul\\ejercicio2\\webapiautores\\webapiautores\\dtos\\comentariolibrocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\dtos\\comentariolibrocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\pc\\documents\\ciclo 10\\proyectos c#\\ejercicios del curso nivel 2\\ejercicio 25-jul\\ejercicio 24-jul\\ejercicio2\\webapiautores\\webapiautores\\controllers\\comentariolibrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\controllers\\comentariolibrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\pc\\documents\\ciclo 10\\proyectos c#\\ejercicios del curso nivel 2\\ejercicio 25-jul\\ejercicio 24-jul\\ejercicio2\\webapiautores\\webapiautores\\entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\entidades\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\pc\\documents\\ciclo 10\\proyectos c#\\ejercicios del curso nivel 2\\ejercicio 25-jul\\ejercicio 24-jul\\ejercicio2\\webapiautores\\webapiautores\\entidades\\aplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\entidades\\aplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|c:\\users\\pc\\documents\\ciclo 10\\proyectos c#\\ejercicios del curso nivel 2\\ejercicio 25-jul\\ejercicio 24-jul\\ejercicio2\\webapiautores\\webapiautores\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1161E2-6F7E-404D-B914-90DA8370C718}|WebApiAutores\\WebApiAutores.csproj|solutionrelative:webapiautores\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApiAutores\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\appsettings.Development.json",
+              "RelativeToolTip": "WebApiAutores\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T03:35:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComentarioLibroController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Controllers\\ComentarioLibroController.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Controllers\\ComentarioLibroController.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Controllers\\ComentarioLibroController.cs",
+              "RelativeToolTip": "WebApiAutores\\Controllers\\ComentarioLibroController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:34:44.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComentarioLibroCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\DTOs\\ComentarioLibroCreacionDTO.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\DTOs\\ComentarioLibroCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\DTOs\\ComentarioLibroCreacionDTO.cs",
+              "RelativeToolTip": "WebApiAutores\\DTOs\\ComentarioLibroCreacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:34:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Entidades\\Comentario.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Entidades\\Comentario.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Entidades\\Comentario.cs",
+              "RelativeToolTip": "WebApiAutores\\Entidades\\Comentario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:34:44.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Entidades\\AplicationContext.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Entidades\\AplicationContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Entidades\\AplicationContext.cs",
+              "RelativeToolTip": "WebApiAutores\\Entidades\\AplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:34:44.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "WebApiAutores\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Ciclo 10\\Proyectos C#\\Ejercicios del curso NIVEL 2\\Ejercicio 25-jul\\Ejercicio 24-jul\\Ejercicio2\\WebApiAutores\\WebApiAutores\\Entidades\\Libro.cs",
+              "RelativeToolTip": "WebApiAutores\\Entidades\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:34:44.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

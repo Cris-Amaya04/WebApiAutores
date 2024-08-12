@@ -1,0 +1,694 @@
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\source\repos\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+C:\Users\UFG-01\Downloads\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+E:\Ejercicios del curso NIVEL 2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\UFG-01\Documents\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+C:\Users\UFG-01\Documents\Ejercicio 21-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+C:\Users\UFG-01\Documents\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CopyComplete
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+D:\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.exe
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.deps.json
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.runtimeconfig.json
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\WebApiAutores.pdb
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.AssemblyInfo.cs
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.WebApiAutores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiAutores.props
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiAutores.props
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiAutores.props
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\scopedcss\bundle\WebApiAutores.styles.css
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAu.F6691BA7.Up2Date
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\refint\WebApiAutores.dll
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.pdb
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\WebApiAutores.genruntimeconfig.cache
+C:\Users\pc\Documents\Ciclo 10\Proyectos C#\Ejercicios del curso NIVEL 2\Ejercicio 25-jul\Ejercicio 24-jul\Ejercicio2\WebApiAutores\WebApiAutores\obj\Debug\net6.0\ref\WebApiAutores.dll
